@@ -1,0 +1,32 @@
+
+
+#fundo { /* fundo da minha página*/
+ background: linear-gradient(to bottom, hsl(263, 47%, 14%), hsl(286, 48%, 24%));
+ background-attachment: fixed;
+}
+
+.fonte { /* Formatação da fonte da minha página*/
+    color: hsl(31, 86%, 63%);
+   font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#perfil { /* formatação da minha foto principal*/
+    
+    width: 200px;
+    padding-left: 7px;
+    margin: 20px;
+    border-radius: 50%;
+    border: 5px solid blue;
+       
+}
+
+.margin { /* formatação da margin da minha página*/
+    margin: 5x;
+    margin-left: 45px ;
+}
+
+.simbols { /* formtação das minhas imagens*/
+    width: 40px;
+    margin-left: 7px; 
+}
